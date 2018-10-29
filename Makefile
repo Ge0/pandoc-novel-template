@@ -3,7 +3,10 @@ PANDOC = pandoc -s --number-sections
 
 PDF = $(NAME).pdf
 
-SRC = metadata.yml $(sort $(wildcard chapters/*.md))
+SRC = metadata.yml \
+      before_chapters.md \
+      dedication.md \
+      $(sort $(wildcard chapters/*.md))
 
 all: $(PDF)
 

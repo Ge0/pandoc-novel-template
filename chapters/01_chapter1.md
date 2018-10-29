@@ -1,4 +1,6 @@
-# A first chapter
+\thispagestyle{empty}
+\newpage
+# A first chapter {-}
 
 Lorem ipsum dolor sit amet, je ne connais pas la suite car je dois avouer que
 je n’ai pas étudié le latin au collége. C’est malheureux car il faut que je
