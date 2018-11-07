@@ -12,4 +12,6 @@ Install `pandoc` and `texlive-most`.
 sudo pacman -S pandoc texlive-most
 ```
 
+## See also
 
+https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca
